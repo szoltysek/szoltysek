@@ -1,4 +1,6 @@
 # Hi there, I'm Karol 👋
+**[My website](https://szoltysek.terminalindex.org)**
+
 
 ### 👨‍💻 Systems Experience & Expertise
 I am an **Engineering Student** at the **Silesian University of Technology** with a deep-rooted passion for low-level systems. My experience spans across the entire spectrum of modern and legacy operating systems:
