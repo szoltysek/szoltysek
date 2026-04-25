@@ -69,7 +69,7 @@ I am an **Engineering Student** at the **Silesian University of Technology** wit
 | **ThinkPad T480** | i7-8550U • 16GB RAM | <img src="https://img.shields.io/badge/Arch_Linux-Testing-1793D1?logo=arch-linux&logoColor=white" height="20"> <img src="https://img.shields.io/badge/OpenBSD-6200EE?logo=openbsd&logoColor=white" height="20"> |
 | **ThinkPad T440** | i5-4300U • 4GB RAM | <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white" height="20"> <img src="https://img.shields.io/badge/FreeBSD-15.0-AB2B28?logo=freebsd&logoColor=white" height="20"> |
 | **ThinkPad T440p** | i7-4710MQ • 8GB RAM | <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?logo=alpine-linux&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" height="20"> |
-| **ThinkPad T440s** | i7-4600U • 8GB RAM | <img src="https://img.shields.io/badge/OpenBSD-6200EE?logo=openbsd&logoColor=white" height="20"> |
+| ~~**ThinkPad T440s**~~ (gone) | i7-4600U • 8GB RAM | <img src="https://img.shields.io/badge/OpenBSD-6200EE?logo=openbsd&logoColor=white" height="20"> |
 | **Dell Latitude E6430** | i7-3740QM • 4GB RAM | <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white" height="20"> <img src="https://img.shields.io/badge/FreeBSD_VM-AB2B28?logo=freebsd&logoColor=white" height="20"> |
 
 > Notice how there's not a single Windows laptop!
