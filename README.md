@@ -5,7 +5,7 @@
 ### 👨‍💻 Systems Experience & Expertise
 I am an **Engineering Student** at the **Silesian University of Technology** with a deep-rooted passion for low-level systems. My experience spans across the entire spectrum of modern and legacy operating systems:
 
-- **Linux**: My daily driver and playground. Expert in **Arch Linux** (Mainline/Testing), **Alpine**, and **Debian**. I specialize in kernel mainlining, driver development, and deep system optimization.
+- **Linux**: My daily driver and playground. Expert in **nixOS (with flakes!)**, **Arch Linux** (Mainline/Testing), **Alpine**, and **Debian**. I specialize in kernel mainlining, driver development, and deep system optimization.
 - **Unix**: Extensive experience with **OpenBSD** and **FreeBSD 15.0**. I appreciate the architectural purity and security-first approach of the BSD family.
 - **Minix**: Explorations into microkernel architectures and the foundational principles of OS design.
 - **Windows**: Deep understanding through the lens of high-performance virtualization. I bridge the gap between Linux and Windows using **VFIO** and **KVM/QEMU** to achieve native-like performance for mission-critical tasks and gaming.
@@ -65,12 +65,10 @@ I am an **Engineering Student** at the **Silesian University of Technology** wit
 #### **Laptops**
 | Machine | Specs | OS |
 | :--- | :--- | :--- |
-| **ThinkPad P53** | i7-9850H • 64GB RAM • Quadro RTX 5000 | <img src="https://img.shields.io/badge/Arch_Linux-Testing-1793D1?logo=arch-linux&logoColor=white" height="20"> |
-| **ThinkPad T480** | i7-8550U • 16GB RAM | <img src="https://img.shields.io/badge/Arch_Linux-Testing-1793D1?logo=arch-linux&logoColor=white" height="20"> <img src="https://img.shields.io/badge/OpenBSD-6200EE?logo=openbsd&logoColor=white" height="20"> |
+| **ThinkPad P53** | i7-9850H • 64GB RAM • Quadro RTX 5000 | <img src="https://img.shields.io/badge/NixOS-flake-5277C3?logo=nixos&logoColor=white" height="20"> <img src="https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff" height="20" > |
 | **ThinkPad T440** | i5-4300U • 4GB RAM | <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white" height="20"> <img src="https://img.shields.io/badge/FreeBSD-15.0-AB2B28?logo=freebsd&logoColor=white" height="20"> |
 | **ThinkPad T440p** | i7-4710MQ • 8GB RAM | <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?logo=alpine-linux&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" height="20"> |
-| ~~**ThinkPad T440s**~~ (gone) | i7-4600U • 8GB RAM | <img src="https://img.shields.io/badge/OpenBSD-6200EE?logo=openbsd&logoColor=white" height="20"> |
-| **Dell Latitude E6430** | i7-3740QM • 4GB RAM | <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white" height="20"> <img src="https://img.shields.io/badge/FreeBSD_VM-AB2B28?logo=freebsd&logoColor=white" height="20"> |
+| **Dell Latitude E6430** | i7-3740QM • 4GB RAM | <img src="https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff" height="20"> <img src="https://img.shields.io/badge/FreeBSD_VM-AB2B28?logo=freebsd&logoColor=white" height="20"> |
 
 > Notice how there's not a single Windows laptop!
 
