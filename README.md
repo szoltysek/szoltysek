@@ -1,7 +1,5 @@
 # Hi there, I'm Karol 👋
 
-### My [resume](https://github.com/szoltysek/szoltysek/blob/ca7cfcbc979921e416b2ce76742b6d61de922b1a/cv-szoltysek.pdf) (in Polish)
-
 ---
 
 ### 👨‍💻 Systems Experience & Expertise
