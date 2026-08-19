@@ -5,7 +5,7 @@
 ### 👨‍💻 Systems Experience & Expertise
 I am an **Engineering Student** at the **Silesian University of Technology** with a deep-rooted passion for low-level systems. My experience spans across the entire spectrum of modern and legacy operating systems:
 
-- **Linux**: My daily driver and playground. Expert in **nixOS (with flakes!)**, **Arch Linux** (Mainline/Testing), **Alpine**, and **Debian**. I specialize in kernel mainlining, driver development, and deep system optimization.
+- **Linux**: My daily driver and playground. Expert in **nixOS (with flakes!)**, **Arch Linux** (Mainline/Testing), **Fedora/RHEL**, **Alpine**, and **Debian**. I specialize in kernel mainlining, driver development, and deep system optimization.
 - **Unix**: Extensive experience with **OpenBSD** and **FreeBSD 15.0**. I appreciate the architectural purity and security-first approach of the BSD family.
 - **Minix**: Explorations into microkernel architectures and the foundational principles of OS design.
 - **Windows**: Deep understanding through the lens of high-performance virtualization. I bridge the gap between Linux and Windows using **VFIO** and **KVM/QEMU** to achieve native-like performance for mission-critical tasks and gaming.
@@ -73,8 +73,8 @@ I am an **Engineering Student** at the **Silesian University of Technology** wit
 > Notice how there's not a single Windows laptop!
 
 #### 📱**Mobile**
-- **Daily**: iPhone 14 Pro
-- **Second-Daily**: **Sony Xperia 5 II** (Running **postmarketOS** & Mainline Kernel)
+- **Daily**: iPhone 14 Pro (enrolled in iOS Developer Beta Program)
+- **Second-Daily**: **Sony Xperia 5 II** (Running **iodeOS, completely degoogled** + **postmarketOS** & Mainline Kernel on sdcard)
 
 ---
 
