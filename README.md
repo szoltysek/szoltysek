@@ -97,6 +97,6 @@ A playlist that keeps me powered and motivated for work:
 ---
 
 <p align="center">
-  <a href="https://szoltysek.terminalindex.org">🌐 Portfolio</a> •
+  <a href="https://karol.terminalindex.org">🌐 Portfolio</a> •
   <a href="https://terminalindex.org">🏗️ Terminal Index</a>
 </p>
